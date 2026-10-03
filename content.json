@@ -1,0 +1,68 @@
+{
+  "whatsapp": "5531973118428",
+  "instagram": "https://www.instagram.com/simonemotamake/",
+  "linktree": "https://linktr.ee/simonemotamake",
+  "hero": {
+    "tag": "ESPECIALISTA EM NOIVAS • BH E REGIÃO",
+    "titulo": "Beleza, elegância e tranquilidade para o seu grande dia.",
+    "subtitulo": "Maquiagem e penteado para noivas em Belo Horizonte e região. Uma experiência de beleza e cuidado pensada especialmente para você.",
+    "imagem": "hero.jpg",
+    "video": ""
+  },
+  "sobre": {
+    "titulo": "Mais do que maquiagem e penteado. Uma experiência até o altar.",
+    "texto1": "Cada noiva carrega uma história, uma personalidade e um sonho único. Meu propósito é valorizar sua beleza e proporcionar uma preparação marcada por cuidado, segurança e tranquilidade.",
+    "texto2": "Através da maquiagem profissional, dos penteados e de um atendimento personalizado, cada detalhe é pensado para que você viva seu grande dia com confiança e leveza.",
+    "imagem": "garden-veil.jpg",
+    "tags": ["Especialista em Noivas", "Colorimetria", "Pele Blindada", "Penteados Profissionais", "Cuidado até o Altar"]
+  },
+  "diferenciais": [
+    {"titulo": "Personalização", "texto": "Uma produção que respeita seu estilo, suas características e a identidade do seu casamento."},
+    {"titulo": "Beleza e durabilidade", "texto": "Técnicas profissionais de maquiagem e preparação de pele pensadas para diferentes momentos do evento."},
+    {"titulo": "Cuidado e acolhimento", "texto": "Uma experiência que valoriza a tranquilidade e o bem-estar da noiva."},
+    {"titulo": "Organização até o altar", "texto": "Atenção aos detalhes para que a preparação aconteça de forma organizada e especial."}
+  ],
+  "servicos": [
+    {"nome": "Maquiagem para Noivas", "texto": "Maquiagem personalizada, desenvolvida para valorizar os traços naturais.", "imagem": "backstage-dress.jpg"},
+    {"nome": "Penteado para Noivas", "texto": "Elegantes, românticos, clássicos ou modernos, conforme a proposta.", "imagem": "back-dress.jpg"},
+    {"nome": "Produção Completa", "texto": "Maquiagem e penteado reunidos em uma produção harmoniosa.", "imagem": "garden-veil.jpg"},
+    {"nome": "Pele Blindada", "texto": "Preparação voltada à durabilidade e resistência da produção.", "imagem": "crying-bride.jpg"},
+    {"nome": "Colorimetria", "texto": "Composições que valorizam suas características individuais.", "imagem": "black-bride-crown.jpg"},
+    {"nome": "Dia da Noiva", "texto": "Uma experiência que une beleza, cuidado e tranquilidade.", "imagem": "backstage-hairstyling.jpg"}
+  ],
+  "diaDaNoiva": {
+    "titulo": "Seu grande dia merece uma experiência inesquecível.",
+    "texto": "Maquiagem marcante, penteado estruturado, elegância e cuidado em cada detalhe. Uma experiência pensada para que você aproveite sua preparação com tranquilidade, confiança e a certeza de estar vivendo um momento especial.",
+    "imagem": "black-bride-crown.jpg",
+    "video": ""
+  },
+  "portfolio": [
+    {"categoria": "noivas", "imagem": "garden-veil.jpg", "alt": "Noiva com buquê"},
+    {"categoria": "penteados", "imagem": "back-dress.jpg", "alt": "Penteado de noiva com véu"},
+    {"categoria": "penteados", "imagem": "crying-bride.jpg", "alt": "Penteado solto ondulado"},
+    {"categoria": "noivas", "imagem": "black-bride-crown.jpg", "alt": "Noiva com coroa"},
+    {"categoria": "noivas", "imagem": "crying-bride.jpg", "alt": "Noiva emocionada com buquê"},
+    {"categoria": "bastidores", "imagem": "backstage-dress.jpg", "alt": "Finalização de penteado nos bastidores"},
+    {"categoria": "bastidores", "imagem": "backstage-hairstyling.jpg", "alt": "Vestido de noiva nos bastidores"}
+  ],
+  "timeline": [
+    {"titulo": "Primeiro contato", "texto": "A noiva entra em contato e informa os detalhes do casamento."},
+    {"titulo": "Planejamento", "texto": "Alinhamento das necessidades, expectativas e características da produção."},
+    {"titulo": "Organização", "texto": "Definição dos detalhes e preparação para o atendimento."},
+    {"titulo": "Preparação", "texto": "Início dos cuidados para a produção da noiva."},
+    {"titulo": "Maquiagem & penteado", "texto": "Desenvolvimento da maquiagem personalizada e criação do penteado escolhido."},
+    {"titulo": "Pronta para o altar", "texto": "O momento de viver seu grande dia com beleza e confiança."}
+  ],
+  "faq": [
+    {"pergunta": "Como solicitar um orçamento?", "resposta": "Basta preencher o formulário desta página ou chamar diretamente no WhatsApp com a data e o local do seu casamento."},
+    {"pergunta": "Você atende em Belo Horizonte e região?", "resposta": "Sim, o atendimento é realizado em Belo Horizonte e cidades da região metropolitana."},
+    {"pergunta": "Como consultar a disponibilidade para minha data?", "resposta": "Entre em contato pelo WhatsApp informando a data do seu casamento para verificarmos a disponibilidade."},
+    {"pergunta": "Como funciona a experiência do Dia da Noiva?", "resposta": "É uma experiência dedicada à preparação da noiva, unindo beleza, cuidado e organização até o momento do altar."},
+    {"pergunta": "Como escolher a maquiagem ideal para meu casamento?", "resposta": "Conversamos sobre seu estilo, o local e a proposta do casamento para definirmos juntas a produção ideal."},
+    {"pergunta": "Posso enviar referências de maquiagem e penteado?", "resposta": "Sim! Você pode enviar suas referências pelo WhatsApp para alinharmos a proposta antes do grande dia."},
+    {"pergunta": "Como funciona o agendamento?", "resposta": "O agendamento é feito após o alinhamento das informações, garantindo sua data na agenda."},
+    {"pergunta": "Com quanto tempo de antecedência devo entrar em contato?", "resposta": "Recomendamos entrar em contato com antecedência para garantir a disponibilidade na data desejada."},
+    {"pergunta": "Como recebo informações sobre valores e serviços?", "resposta": "Os valores e condições são informados diretamente pelo WhatsApp, de acordo com o serviço escolhido."}
+  ],
+  "instagramTiras": ["garden-veil.jpg", "crying-bride.jpg", "backstage-dress.jpg", "crying-bride.jpg"]
+}
